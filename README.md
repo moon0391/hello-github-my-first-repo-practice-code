@@ -1,1 +1,1 @@
-# hello-github-my-first-repo-practice-code
+# hello-github-my-first-repo
